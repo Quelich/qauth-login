@@ -2,12 +2,12 @@
 - ## A authentication website written in PHP, HTML, and CSS. MySQL database is used to manage internal data.
 - ## There is also an easter egg on home page. Find it :)  
 # How to Setup
- ## 1. Download `emre_kilic_110510259.zip` file which includes all the necessary source files. 
+ ## 1. Download `emre_kilic_ULS.zip` file which includes all the necessary source files. 
  ## 2. Go to `C:\newxampp\htdocs` on your computer.
  ## 3. Create a new file in there and name it, for example, `emrephplogin`.   
  ![htdocs](./views/directory-arrange.png)  
  ## 4. Go to `emrephplogin` file you have just created.
- ## 5. Unzip the `emre_kilic_110510259.zip` here
+ ## 5. Unzip the `emre_kilic_ULS.zip` here
  ![after unzip](./views/after_unzip.png)
  ## 6. Now you should create a database to store user data. To do that, open XAMPP.
  ![xammpp](./views/xampp.png)
